@@ -31,4 +31,4 @@
   </head>
 
   <?php echo body_tag(array('id' => @$bodyid, 'class' => @$bodyclass)); ?>
-    <div class="container">
+    <div class="container1">

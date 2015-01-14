@@ -119,7 +119,7 @@ $dublin_sep = all_element_texts('item',array(
 echo $dados_neatline_pos;
 
 ?>
-<p />
+<div class="library-link" style="width: 100%; clear:both;">
 <hr />
 
 <!-- Link. -->
@@ -128,7 +128,7 @@ echo $dados_neatline_pos;
 ); 
 
 ?>
-
+<div />
 
 
 
